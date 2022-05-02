@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-appengine",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "author": "rakuishi",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nconf": "^0.12.0"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
